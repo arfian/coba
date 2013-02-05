@@ -47,6 +47,10 @@ Creating Repository and Git Basic Command
 
         git push -u origin master
 
-Author
+Contributors
 ----
-Created by [Noval Agung](http://blog.novalagung.com/)
+
+- [Noval Agung](http://blog.novalagung.com/)
+- [Arfian Bagus](https://plus.google.com/111578964681175882962/)
+- [Febrian Imanda](http://twitter.com/febrianimanda)
+- [Dhitta Hanada](http://www.facebook.com/dhitta.hananda.5)
