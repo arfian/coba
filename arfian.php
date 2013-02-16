@@ -1,9 +1,6 @@
 <?php
-coba mas
-fhgfgh
-
-
-
+$coba = "mas Nopal";
+echo($coba);
 
 /*
  * To change this template, choose Tools | Templates
